@@ -1,4 +1,3 @@
-I did it to learn and test some things
 
 # Send fake messages to minecraft chat
 
